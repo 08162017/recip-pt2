@@ -1,0 +1,25 @@
+body {
+background-color: rgb(0, 0, 0);
+color: white;
+font-size: 21px;
+
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+.intro {
+    font-size: 65px;
+}
+
+h1 {
+    color: pink;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+}
+
